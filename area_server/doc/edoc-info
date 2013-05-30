@@ -1,0 +1,9 @@
+{application,areasrv}.
+{packages,[libchat,libdist,libenv,libgeo,libobj,libplayer,libsave,libstd]}.
+{modules,[areasrv,areasrv_app,areasrv_sup,balancer,chat_functions,dev,
+          dist_funs,env_funs,event,event_handler,geo_funs,lib_sup,libchat,
+          libchat_sup,libdist,libdist_sup,libenv,libenv_sup,libgeo,libgeo_sup,
+          'libplayer.libplayer','libplayer.libplayer_sup',
+          'libplayer.player_funs',libsave,libsave_sup,libstd,libstd_sup,
+          living,logger,migrate,movable,obj,obj_loop,obj_sup,plant,player,
+          quad,save_funs,spammer,stationary,std_funs,time_daemon,util]}.

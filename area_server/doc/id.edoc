@@ -1,0 +1,3 @@
+@type id(). A string that is composed by "node@server" + "#" + "Module" +
+":" + "Time in microseconds". Example "underworld@machine1#player:1253433934493967".
+
