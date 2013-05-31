@@ -1,4 +1,8 @@
 *.beam
-*.swp
+*.o
+*.plt
 *.log
+*.swp
+.eunit
+deps
 erl_crash.dump
